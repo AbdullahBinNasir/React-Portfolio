@@ -1,226 +1,161 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "Pakistan Society Of Oncology (PSPO)",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "Developed a responsive and dynamic website for the Pakistan Society of Pediatric Oncology (PSPO) using PHP, AJAX, and phpMyAdmin, featuring multilingual support, event management, and an admin dashboard.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "The Pakistan Society of Pediatric Oncology (PSPO) website was developed as a professional and comprehensive digital platform dedicated to advancing pediatric oncology awareness, education, and collaboration across Pakistan. This project was fully designed and developed from the ground up, with a focus on delivering a seamless and informative user experience. The website features a modern interface with smooth animations and responsive layouts to ensure accessibility across all devices. It includes a dynamic member registration and management system, a detailed conference and events section, multilingual support for a diverse audience, and interactive forms for membership, contact, and event participation. An integrated admin dashboard allows efficient management of content and user data, while AOS-based animations and modern UI components enhance user engagement. Developed using PHP, AJAX, and various frontend libraries, with phpMyAdmin for database management, this project showcases strong expertise in full-stack web development, responsive design, and data-driven content management — ensuring the platform not only looks professional but performs reliably for both administrators and visitors.",
     ],
-    href: "",
+    href: "https://pspo.org.pk/",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/pspo.png",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "PHP",
+        path: "/assets/logos/php.svg",
       },
       {
         id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
+        name: "Javascript",
+        path: "/assets/logos/javascript.svg",
       },
       {
         id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
+        name: "Ajax",
+        path: "/assets/logos/ajax.jpeg",
       },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
+
     ],
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "Masood Engineering Works (MEW)",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "Masood Engineering Works (Pvt.) Ltd., Karachi, manufactures high-quality automotive cables and components (e.g. accelerator, clutch, transmission, hood-latch cables etc.), supplies hardware and tools, and is a recognized member of PAAPAM in Pakistan.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+      "Masood Engineering Works (Pvt.) Ltd., based in Karachi, is a leading manufacturer in Pakistan’s automotive parts industry. Specialising in high-quality automotive cables and assembly components, the company produces an extensive range of products including accelerator cables, clutch cables, transmission cables, select & shift cables, hood-latch cables, speed-meter cables, choke cables, throttle cables, and more. As a recognized member of PAAPAM, Masood Engineering Works adheres to strict industry quality standards and has built a strong reputation for reliability and performance. The company is also engaged in supplying bolts, nuts, screws, hardware, and tools, positioning itself as a versatile provider in mechanical and hardware supply chains. With its operations anchored in Karachi and a skilled team committed to automotive engineering excellence, Masood Engineering Works continues to support both domestic automotive manufacturers and aftermarket segments.",
     ],
-    href: "",
+    href: "https://mewcables.com/",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/mewCables.png",
     tags: [
       {
         id: 1,
-        name: "Auth0",
-        path: "/assets/logos/auth0.svg",
+        name: "PHP",
+        path: "/assets/logos/php.svg",
       },
       {
         id: 2,
-        name: "React",
-        path: "/assets/logos/react.svg",
+        name: "Javascript",
+        path: "/assets/logos/javascript.svg",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "Ajax",
+        path: "/assets/logos/ajax.jpeg",
       },
     ],
   },
   {
     id: 3,
-    title: "Blazor Web App",
+    title: "Pakistan Society Of Nephrology (PSN)",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "Built using the MERN stack, the PSN website delivers end-to-end functionality—membership, journal, events, registry, and mobile-optimized design—to support Pakistan Society of Nephrology’s mission in awareness, research, and high-traffic content delivery.",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
-      "Implemented API interactions using .NET Core for a robust backend.",
-      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
-      "Integrated SQLite for efficient client-side database storage.",
+      `The Pakistan Society of Nephrology (PSN) website was developed as a full-featured, end-to-end digital platform aimed at elevating kidney health awareness, research, and clinical collaboration across Pakistan. Designed and built using the MERN stack, I undertook all aspects of the project—from UX/UI design to frontend, backend, database design, and deployment. Key features include full membership registration and management, events and conferences modules, journal and publications section (integrated with Pakistan Journal of Kidney Diseases), a robust renal patient registry, multilingual support, interactive forms, mobile-friendly responsive design, and an admin dashboard for managing content, users, and data.
+
+Given PSN’s role in organizing high-profile international conferences such as their 14th Biennial Conference held at SIUT, and its establishment of a nationwide renal registry to track chronic kidney disease and renal replacement therapy, the platform needed to support high traffic, large data volumes, secure handling of research and member information, and consistent performance across devices. The result is a professional, reliable, and scalable site that strengthens PSN’s digital outreach, improves access to nephrology resources, supports research, and enhances patient and practitioner engagement.`
     ],
+
     href: "",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/projects/psn.png",
     tags: [
       {
         id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        name: "React JS",
+        path: "/assets/logos/reactlogo.png",
       },
       {
         id: 2,
-        name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
+        name: "Node JS",
+        path: "/assets/logos/nodejsLogo.png",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "Express JS",
+        path: "/assets/logos/express.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "MongoDB",
+        path: "/assets/logos/mongodbLogo.svg",
       },
     ],
   },
   {
     id: 4,
-    title: "C++ Game Engine",
+    title: "Tabib",
     description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
+      "Tabib is an AI-powered healthcare app built with Flutter and Dart, offering doctor appointments, video consultations, pharmacy access, blood donation features, and smart assistants that analyze lab reports and provide personalized medical guidance.Built using the MERN stack, the PSN website delivers end-to-end functionality—membership, journal, events, registry, and mobile-optimized design—to support Pakistan Society of Nephrology’s mission in awareness, research, and high-traffic content delivery.",
     subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
+      `Tabib is an intelligent healthcare mobile application built with Flutter and Dart, designed to make medical services accessible and convenient. It allows users to book doctor appointments, consult via video calls, and order medicines through an integrated online pharmacy. The app also promotes community health through a blood donation feature that connects donors and recipients efficiently.
+
+What sets Tabib apart are its AI-powered healthcare assistants. One AI analyzes and summarizes lab reports, enabling users to chat and understand their results easily. The other acts as a virtual medical advisor, using user-provided details—such as age, gender, symptoms, and medications—to suggest possible conditions, recommended actions, and when to seek medical attention.
+
+By combining smart technology with accessibility, Tabib transforms how people interact with healthcare and empowers them to make informed health decisions anytime, anywhere.`
     ],
+
     href: "",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/assets/projects/tabib.jpg",
     tags: [
       {
         id: 1,
-        name: "C++",
-        path: "/assets/logos/cplusplus.svg",
+        name: "Flutter",
+        path: "/assets/logos/flutter.png",
       },
       {
         id: 2,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "Dart",
+        path: "/assets/logos/dart.png",
       },
-      {
-        id: 3,
-        name: "Git",
-        path: "/assets/logos/git.svg",
-      },
-      {
-        id: 4,
-        name: "Microsoft",
-        path: "/assets/logos/microsoft.svg",
-      },
+      
     ],
   },
   {
     id: 5,
-    title: "WordPress Custom Theme",
+    title: "Pet Care",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "PetCare is a smart pet health management app built with Flutter and Dart, offering veterinary appointments, video consultations, online medicine orders, vaccination tracking, and AI-powered pet health insights — making pet care easier and more reliable.",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
-      "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
+      `PetCare is a comprehensive mobile application developed using Flutter and Dart, designed to provide complete health and lifestyle management solutions for pets. The app enables pet owners to easily book veterinary appointments, consult vets through video calls, and order pet medicines and food online. It also offers features for vaccination tracking, health record management, and reminders for grooming or vet visits — ensuring pets receive timely care.
+
+What makes PetCare innovative is its AI-driven assistance system, which allows users to input their pet’s species, age, symptoms, and medical history to receive personalized insights on potential health issues, recommended treatments, and care tips. Additionally, the app includes a lost and found pet network, helping owners reconnect with their pets faster through community reporting.
+
+By integrating technology and compassion, PetCare simplifies pet healthcare, enhances owner awareness, and promotes a healthier, happier life for animals.`
     ],
+
     href: "",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/tabib.jpg",
     tags: [
       {
         id: 1,
-        name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
+        name: "Flutter",
+        path: "/assets/logos/flutter.png",
       },
       {
         id: 2,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        name: "Dart",
+        path: "/assets/logos/dart.png",
       },
-      {
-        id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
-      },
-      {
-        id: 4,
-        name: "Vite.js",
-        path: "/assets/logos/vitejs.svg",
-      },
+      
     ],
   },
-  {
-    id: 6,
-    title: "Online Learning Platform",
-    description:
-      "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
-    subDescription: [
-      "Built using Blazor WebAssembly for a seamless SPA experience.",
-      "Implemented video streaming with Azure Media Services.",
-      "Added a quiz system with dynamic question generation and real-time grading.",
-      "Integrated Stripe API for secure payment processing.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/elearning.jpg",
-    tags: [
-      {
-        id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
-      },
-      {
-        id: 2,
-        name: "Azure",
-        path: "/assets/logos/azure.svg",
-      },
-      {
-        id: 3,
-        name: "Stripe",
-        path: "/assets/logos/stripe.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-    ],
-  },
+
 ];
 
 export const mySocials = [
@@ -243,36 +178,27 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Web & App Developer",
+    job: "Developing Websties And Managing Databases",
+    date: "2023-Present",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Worked with a software company named Graphic Rythem, where I designed and developed dynamic websites, managed MySQL databases, and optimized existing web applications for performance and reliability. Collaborated with cross-functional teams to identify and resolve technical issues, debug complex code errors, and ensure smooth deployment of web projects. Enhanced user experience through responsive design techniques and implemented backend improvements for data efficiency. Contributed to content creation and front-end enhancements to maintain brand consistency and improve overall site engagement."
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Internship",
+    job: "Internship",
+    date: "2024-2025",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Completed an internship at Oxen Softwares, where I gained hands-on experience in full-stack web development and contributed to building multiple websites across diverse industries. Developed responsive and user-friendly interfaces, integrated dynamic features using modern web technologies, and assisted in database design and management. Collaborated with senior developers to troubleshoot issues, optimize performance, and ensure high-quality project delivery. The internship strengthened my technical foundation, problem-solving skills, and understanding of end-to-end web development workflows.",
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
+    title: "Web Developer",
+    job: "Website and database management",
+    date: "2024-Present",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Worked as a Web Developer for an organization where I was responsible for developing, maintaining, and optimizing their website and database systems. My role involved resolving technical issues related to web functionality, authentication, and data management while ensuring smooth and secure system performance. I implemented backend enhancements, optimized database queries for efficiency, and maintained front-end responsiveness for an improved user experience. Additionally, I provided ongoing support to ensure data integrity, scalability, and reliability across all digital platforms.",
     ],
   },
 ];
