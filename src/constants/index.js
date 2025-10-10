@@ -58,45 +58,45 @@ export const myProjects = [
       },
     ],
   },
+//   {
+//     id: 3,
+//     title: "Pakistan Society Of Nephrology (PSN)",
+//     description:
+//       "Built using the MERN stack, the PSN website delivers end-to-end functionality—membership, journal, events, registry, and mobile-optimized design—to support Pakistan Society of Nephrology’s mission in awareness, research, and high-traffic content delivery.",
+//     subDescription: [
+//       `The Pakistan Society of Nephrology (PSN) website was developed as a full-featured, end-to-end digital platform aimed at elevating kidney health awareness, research, and clinical collaboration across Pakistan. Designed and built using the MERN stack, I undertook all aspects of the project—from UX/UI design to frontend, backend, database design, and deployment. Key features include full membership registration and management, events and conferences modules, journal and publications section (integrated with Pakistan Journal of Kidney Diseases), a robust renal patient registry, multilingual support, interactive forms, mobile-friendly responsive design, and an admin dashboard for managing content, users, and data.
+
+// Given PSN’s role in organizing high-profile international conferences such as their 14th Biennial Conference held at SIUT, and its establishment of a nationwide renal registry to track chronic kidney disease and renal replacement therapy, the platform needed to support high traffic, large data volumes, secure handling of research and member information, and consistent performance across devices. The result is a professional, reliable, and scalable site that strengthens PSN’s digital outreach, improves access to nephrology resources, supports research, and enhances patient and practitioner engagement.`
+//     ],
+
+//     href: "",
+//     logo: "",
+//     image: "/assets/projects/psn.png",
+//     tags: [
+//       {
+//         id: 1,
+//         name: "React JS",
+//         path: "/assets/logos/reactlogo.png",
+//       },
+//       {
+//         id: 2,
+//         name: "Node JS",
+//         path: "/assets/logos/nodejsLogo.png",
+//       },
+//       {
+//         id: 3,
+//         name: "Express JS",
+//         path: "/assets/logos/express.svg",
+//       },
+//       {
+//         id: 4,
+//         name: "MongoDB",
+//         path: "/assets/logos/mongodbLogo.svg",
+//       },
+//     ],
+//   },
   {
     id: 3,
-    title: "Pakistan Society Of Nephrology (PSN)",
-    description:
-      "Built using the MERN stack, the PSN website delivers end-to-end functionality—membership, journal, events, registry, and mobile-optimized design—to support Pakistan Society of Nephrology’s mission in awareness, research, and high-traffic content delivery.",
-    subDescription: [
-      `The Pakistan Society of Nephrology (PSN) website was developed as a full-featured, end-to-end digital platform aimed at elevating kidney health awareness, research, and clinical collaboration across Pakistan. Designed and built using the MERN stack, I undertook all aspects of the project—from UX/UI design to frontend, backend, database design, and deployment. Key features include full membership registration and management, events and conferences modules, journal and publications section (integrated with Pakistan Journal of Kidney Diseases), a robust renal patient registry, multilingual support, interactive forms, mobile-friendly responsive design, and an admin dashboard for managing content, users, and data.
-
-Given PSN’s role in organizing high-profile international conferences such as their 14th Biennial Conference held at SIUT, and its establishment of a nationwide renal registry to track chronic kidney disease and renal replacement therapy, the platform needed to support high traffic, large data volumes, secure handling of research and member information, and consistent performance across devices. The result is a professional, reliable, and scalable site that strengthens PSN’s digital outreach, improves access to nephrology resources, supports research, and enhances patient and practitioner engagement.`
-    ],
-
-    href: "",
-    logo: "",
-    image: "/assets/projects/psn.png",
-    tags: [
-      {
-        id: 1,
-        name: "React JS",
-        path: "/assets/logos/reactlogo.png",
-      },
-      {
-        id: 2,
-        name: "Node JS",
-        path: "/assets/logos/nodejsLogo.png",
-      },
-      {
-        id: 3,
-        name: "Express JS",
-        path: "/assets/logos/express.svg",
-      },
-      {
-        id: 4,
-        name: "MongoDB",
-        path: "/assets/logos/mongodbLogo.svg",
-      },
-    ],
-  },
-  {
-    id: 4,
     title: "Tabib",
     description:
       "Tabib is an AI-powered healthcare app built with Flutter and Dart, offering doctor appointments, video consultations, pharmacy access, blood donation features, and smart assistants that analyze lab reports and provide personalized medical guidance.Built using the MERN stack, the PSN website delivers end-to-end functionality—membership, journal, events, registry, and mobile-optimized design—to support Pakistan Society of Nephrology’s mission in awareness, research, and high-traffic content delivery.",
@@ -126,7 +126,7 @@ By combining smart technology with accessibility, Tabib transforms how people in
     ],
   },
   {
-    id: 5,
+    id: 4,
     title: "Pet Care",
     description:
       "PetCare is a smart pet health management app built with Flutter and Dart, offering veterinary appointments, video consultations, online medicine orders, vaccination tracking, and AI-powered pet health insights — making pet care easier and more reliable.",
