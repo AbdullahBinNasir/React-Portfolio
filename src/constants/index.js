@@ -1,36 +1,36 @@
 export const myProjects = [
+  // {
+  //   id: 1,
+  //   title: "Pakistan Society Of Oncology (PSPO)",
+  //   description:
+  //     "Developed a responsive and dynamic website for the Pakistan Society of Pediatric Oncology (PSPO) using PHP, AJAX, and phpMyAdmin, featuring multilingual support, event management, and an admin dashboard.",
+  //   subDescription: [
+  //     "The Pakistan Society of Pediatric Oncology (PSPO) website was developed as a professional and comprehensive digital platform dedicated to advancing pediatric oncology awareness, education, and collaboration across Pakistan. This project was fully designed and developed from the ground up, with a focus on delivering a seamless and informative user experience. The website features a modern interface with smooth animations and responsive layouts to ensure accessibility across all devices. It includes a dynamic member registration and management system, a detailed conference and events section, multilingual support for a diverse audience, and interactive forms for membership, contact, and event participation. An integrated admin dashboard allows efficient management of content and user data, while AOS-based animations and modern UI components enhance user engagement. Developed using PHP, AJAX, and various frontend libraries, with phpMyAdmin for database management, this project showcases strong expertise in full-stack web development, responsive design, and data-driven content management — ensuring the platform not only looks professional but performs reliably for both administrators and visitors.",
+  //   ],
+  //   href: "https://pspo.org.pk/",
+  //   logo: "",
+  //   image: "/assets/projects/pspo.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "PHP",
+  //       path: "/assets/logos/php.svg",
+  //     },
+  //     {
+  //       id: 2,
+  //       name: "Javascript",
+  //       path: "/assets/logos/javascript.svg",
+  //     },
+  //     {
+  //       id: 3,
+  //       name: "Ajax",
+  //       path: "/assets/logos/ajax.jpeg",
+  //     },
+
+  //   ],
+  // },
   {
     id: 1,
-    title: "Pakistan Society Of Oncology (PSPO)",
-    description:
-      "Developed a responsive and dynamic website for the Pakistan Society of Pediatric Oncology (PSPO) using PHP, AJAX, and phpMyAdmin, featuring multilingual support, event management, and an admin dashboard.",
-    subDescription: [
-      "The Pakistan Society of Pediatric Oncology (PSPO) website was developed as a professional and comprehensive digital platform dedicated to advancing pediatric oncology awareness, education, and collaboration across Pakistan. This project was fully designed and developed from the ground up, with a focus on delivering a seamless and informative user experience. The website features a modern interface with smooth animations and responsive layouts to ensure accessibility across all devices. It includes a dynamic member registration and management system, a detailed conference and events section, multilingual support for a diverse audience, and interactive forms for membership, contact, and event participation. An integrated admin dashboard allows efficient management of content and user data, while AOS-based animations and modern UI components enhance user engagement. Developed using PHP, AJAX, and various frontend libraries, with phpMyAdmin for database management, this project showcases strong expertise in full-stack web development, responsive design, and data-driven content management — ensuring the platform not only looks professional but performs reliably for both administrators and visitors.",
-    ],
-    href: "https://pspo.org.pk/",
-    logo: "",
-    image: "/assets/projects/pspo.png",
-    tags: [
-      {
-        id: 1,
-        name: "PHP",
-        path: "/assets/logos/php.svg",
-      },
-      {
-        id: 2,
-        name: "Javascript",
-        path: "/assets/logos/javascript.svg",
-      },
-      {
-        id: 3,
-        name: "Ajax",
-        path: "/assets/logos/ajax.jpeg",
-      },
-
-    ],
-  },
-  {
-    id: 2,
     title: "Masood Engineering Works (MEW)",
     description:
       "Masood Engineering Works (Pvt.) Ltd., Karachi, manufactures high-quality automotive cables and components (e.g. accelerator, clutch, transmission, hood-latch cables etc.), supplies hardware and tools, and is a recognized member of PAAPAM in Pakistan.",
@@ -96,7 +96,7 @@ export const myProjects = [
 //     ],
 //   },
   {
-    id: 3,
+    id: 2,
     title: "Tabib",
     description:
       "Tabib is an AI-powered healthcare app built with Flutter and Dart, offering doctor appointments, video consultations, pharmacy access, blood donation features, and smart assistants that analyze lab reports and provide personalized medical guidance.Built using the MERN stack, the PSN website delivers end-to-end functionality—membership, journal, events, registry, and mobile-optimized design—to support Pakistan Society of Nephrology’s mission in awareness, research, and high-traffic content delivery.",
@@ -126,7 +126,7 @@ By combining smart technology with accessibility, Tabib transforms how people in
     ],
   },
   {
-    id: 4,
+    id: 3,
     title: "Pet Care",
     description:
       "PetCare is a smart pet health management app built with Flutter and Dart, offering veterinary appointments, video consultations, online medicine orders, vaccination tracking, and AI-powered pet health insights — making pet care easier and more reliable.",
@@ -171,7 +171,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/devnest_.dev/",
+    href: "https://www.instagram.com/techhavyn",
     icon: "/assets/socials/instagram.svg",
   },
 ];
@@ -182,7 +182,7 @@ export const experiences = [
     job: "Developing Websties And Managing Databases",
     date: "2023-Present",
     contents: [
-      "Worked with a software company named Graphic Rythem, where I designed and developed dynamic websites, managed MySQL databases, and optimized existing web applications for performance and reliability. Collaborated with cross-functional teams to identify and resolve technical issues, debug complex code errors, and ensure smooth deployment of web projects. Enhanced user experience through responsive design techniques and implemented backend improvements for data efficiency. Contributed to content creation and front-end enhancements to maintain brand consistency and improve overall site engagement."
+      "Worked with a software company named Graphic Hive, where I designed and developed dynamic websites, managed MySQL databases, and optimized existing web applications for performance and reliability. Collaborated with cross-functional teams to identify and resolve technical issues, debug complex code errors, and ensure smooth deployment of web projects. Enhanced user experience through responsive design techniques and implemented backend improvements for data efficiency. Contributed to content creation and front-end enhancements to maintain brand consistency and improve overall site engagement."
     ],
   },
   {
@@ -193,14 +193,14 @@ export const experiences = [
       "Completed an internship at Oxen Softwares, where I gained hands-on experience in full-stack web development and contributed to building multiple websites across diverse industries. Developed responsive and user-friendly interfaces, integrated dynamic features using modern web technologies, and assisted in database design and management. Collaborated with senior developers to troubleshoot issues, optimize performance, and ensure high-quality project delivery. The internship strengthened my technical foundation, problem-solving skills, and understanding of end-to-end web development workflows.",
     ],
   },
-  {
-    title: "Web Developer",
-    job: "Website and database management",
-    date: "2024-Present",
-    contents: [
-      "Worked as a Web Developer for an organization where I was responsible for developing, maintaining, and optimizing their website and database systems. My role involved resolving technical issues related to web functionality, authentication, and data management while ensuring smooth and secure system performance. I implemented backend enhancements, optimized database queries for efficiency, and maintained front-end responsiveness for an improved user experience. Additionally, I provided ongoing support to ensure data integrity, scalability, and reliability across all digital platforms.",
-    ],
-  },
+  // {
+  //   title: "Web Developer",
+  //   job: "Website and database management",
+  //   date: "2024-Present",
+  //   contents: [
+  //     "Worked as a Web Developer for an organization where I was responsible for developing, maintaining, and optimizing their website and database systems. My role involved resolving technical issues related to web functionality, authentication, and data management while ensuring smooth and secure system performance. I implemented backend enhancements, optimized database queries for efficiency, and maintained front-end responsiveness for an improved user experience. Additionally, I provided ongoing support to ensure data integrity, scalability, and reliability across all digital platforms.",
+  //   ],
+  // },
 ];
 export const reviews = [
   {
