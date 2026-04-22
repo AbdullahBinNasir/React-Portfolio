@@ -184,6 +184,30 @@ By integrating technology and compassion, PetCare simplifies pet healthcare, enh
       },
     ],
   },
+  {
+    id: 5,
+    title: "Portal",
+    description:
+      "Portal is a real estate website project showcasing properties with a clean layout and responsive design.",
+    subDescription: [
+      "Portal is designed as a modern property showcase experience with structured sections, visual property presentation, and smooth navigation across desktop and mobile devices."
+    ],
+    href: "",
+    logo: "",
+    image: "/assets/projects/portal.png",
+    tags: [
+      {
+        id: 1,
+        name: "HTML5",
+        path: "/assets/logos/html5.svg",
+      },
+      {
+        id: 2,
+        name: "CSS3",
+        path: "/assets/logos/css3.svg",
+      },
+    ],
+  },
 
 ];
 
