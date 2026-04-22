@@ -155,6 +155,35 @@ By integrating technology and compassion, PetCare simplifies pet healthcare, enh
       
     ],
   },
+  {
+    id: 4,
+    title: "BuildCon",
+    description:
+      "BuildCon is a modern real estate website focused on helping users discover, explore, and connect with properties through a clean and responsive experience.",
+    subDescription: [
+      "BuildCon is a real estate web platform designed to showcase property listings in a simple, visual, and user-friendly way. It presents homes and commercial spaces with clear details, attractive layouts, and responsive design so visitors can browse comfortably across devices. The platform emphasizes smooth navigation, strong visual presentation, and accessibility for users searching for their next property."
+    ],
+    href: "https://buildcon.netlify.app",
+    logo: "",
+    image: "/assets/projects/buildcon.jpeg",
+    tags: [
+      {
+        id: 1,
+        name: "HTML5",
+        path: "/assets/logos/html5.svg",
+      },
+      {
+        id: 2,
+        name: "CSS3",
+        path: "/assets/logos/css3.svg",
+      },
+      {
+        id: 3,
+        name: "Tailwind CSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+    ],
+  },
 
 ];
 
